@@ -1,2 +1,0 @@
-hello git
-这是修改后的git
